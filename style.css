@@ -1,0 +1,10 @@
+h2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(149, 251, 251);
+    /* text-shadow: 2px 2px 5px  black; */
+    padding: 5px ;
+}
+#header {
+    text-align: center;
+
+}
